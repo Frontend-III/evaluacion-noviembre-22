@@ -32,7 +32,6 @@ export default function Post({info, setLikesTotales}) {
         <button onClick={() => handleClick(id)}>Like</button>
         <h5>{likeState < 10 ? likeState : "Mas de 10 likes"}</h5>
       </section>
-      {/* maquetar Post aquí */}
     </div>
   )
 }
