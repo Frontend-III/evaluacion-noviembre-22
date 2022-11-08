@@ -46,6 +46,7 @@ header p span {
   padding: 20px;
   width: 33%;
   border-radius: 5px;
+  display: grid;
 }
 
 .posteo h3{
